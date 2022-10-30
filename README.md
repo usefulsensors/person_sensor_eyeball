@@ -99,10 +99,11 @@ folder on the `CIRCUITPYTHON` drive.
 
 ## Install the Code
 
-Now your eyeball is set up, copy the `code.py` file from this repository into
-the `CIRCUITPYTHON` drive. You should notice that the green LED on the Person
-Sensor lights up when it sees your face, and see an eyeball that moves as you
-move you face within view of the sensor.
+Now your eyeball is set up, copy the `code.py`, `eye0_ball2.bmp`, and 
+`eye0_iris0.bmp` files from this repository into the `CIRCUITPYTHON` drive. You
+should notice that the green LED on the Person Sensor lights up when it sees
+your face, and see an eyeball that moves as you move you face within view of the
+sensor.
 
 ## Next Steps
 
